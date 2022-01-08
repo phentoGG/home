@@ -1,3 +1,3 @@
 # Main Page of phentoGG
 
-## github github.com/phentoGG
+## github https://github.com/phentoGG
